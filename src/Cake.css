@@ -1,0 +1,13 @@
+﻿.panel-default > .panel-heading {
+    background-color: #004990;
+    border-color: #004990;  
+}
+ 
+.panel-title {
+    color: #fff;
+}
+
+.Cake { 
+  margin-top: 20px;
+  padding: 10px; 
+}

@@ -1,0 +1,15 @@
+﻿.CakeList {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #e3ebf2;
+  background: #e3eaf2;
+}
+
+.panel-default > .panel-heading {
+    background-color: #004990;
+    border-color: #004990;
+}
+ 
+.panel-title {
+    color: #fff;
+}

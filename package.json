@@ -1,0 +1,31 @@
+{
+  "name": "reactCakeApp",
+  "author": "Muthu Sakthivel",
+  "version": "0.1.0",
+  "private": false,
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.17.0",
+    "chai": "^3.5.0",
+    "chai-enzyme": "^0.5.2",
+    "chai-jsx": "^1.0.1",
+    "enzyme": "^2.4.1",
+    "jsdom": "^9.7.1",
+    "mocha": "^3.1.2",
+    "react-scripts": "0.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "expect": "^1.20.2",
+    "jquery": "^3.2.1",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.8",
+    "react-dom": "^15.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
