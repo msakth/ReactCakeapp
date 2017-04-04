@@ -1,5 +1,5 @@
 
-React app to add/edit/save cakes
+React app to add/edit/save/search cakes
 
     RUN -- To run this app please follow the instructions below
     =============================================================
