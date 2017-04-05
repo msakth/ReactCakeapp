@@ -4,7 +4,7 @@ import CakeList from './CakeList.js';
 
 const App = () => {
 
-    const jsonSource = 'https://gist.githubusercontent.com/hart88/198f29ec5114a3ec3460/raw/8dd19a88f9b8d24c23d9960f3300d0c917a4f07c/cake.json';
+    const jsonSource = 'https://gist.githubusercontent.com/msakth/7056928ef7456ffb60c0f25d1cc35e48/raw/e09011c7a487d018e0772488974d3da3b33e0849/cake.json';
 
     return( 
             <div className="App">
